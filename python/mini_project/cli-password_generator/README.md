@@ -13,8 +13,8 @@ Simple CLI password generator dibuat menggunakan Python.
 # Linux/macOS
 ```bash
 python3 main.py
-
+```
 # Windows
 ```bash
 python main.py
-
+```
