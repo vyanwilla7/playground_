@@ -7,13 +7,16 @@ venv/
 env/
 
 # data
-data/
+data/*
+!data/.gitkeep
 
 # model
-models/
+models/*
+!models/.gitkeep
 
 # hasil visualisasi
-hasil_visualisasi/
+hasil_visualisasi/*
+!hasil_visualisasi/.gitkeep
 
 # jupyter
 .ipynb_checkpoints/
