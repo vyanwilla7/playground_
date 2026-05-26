@@ -1,0 +1,23 @@
+# python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# data
+data/
+
+# model
+models/
+
+# hasil visualisasi
+hasil_visualisasi/
+
+# jupyter
+.ipynb_checkpoints/
+
+# os
+.DS_Store
+Thumbs.db
