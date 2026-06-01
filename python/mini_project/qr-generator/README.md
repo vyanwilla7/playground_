@@ -73,4 +73,6 @@ Apakah anda ingin mambuat QR Code lagi? (y/n) #jika ingin membuat lagi maka keti
 - Pillow
 
 ---
+## 👨‍💻 Author
 
+**vyanwilla7** — [github.com/vyanwilla7](https://github.com/vyanwilla7)
