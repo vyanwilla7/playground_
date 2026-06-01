@@ -18,3 +18,7 @@ python3 main.py
 ```bash
 python main.py
 ```
+
+## 👨‍💻 Author
+
+**vyanwilla7** — [github.com/vyanwilla7](https://github.com/vyanwilla7)
