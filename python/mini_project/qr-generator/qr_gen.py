@@ -38,7 +38,7 @@ class QRGenerator:
         if not os.path.exists(folder):
             os.makedirs(folder)
 
-        path: str = f"{folder}/{name_file}.png"
+        path: str = f"{folder}/{name_file}.png" or f"{folder}/{name_file}.jpeg"
         self.img.save(path)
 
         return path
