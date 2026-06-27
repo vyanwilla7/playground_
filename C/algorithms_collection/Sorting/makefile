@@ -18,5 +18,12 @@ selection_sort:
 run_selection:
 	./$(FOLDER)/selection
 
+# insertion_sort
+insertion_sort:
+	mkdir -p $(FOLDER)
+	$(CC) $(CFLAGS) insertion_sort.c -o $(FOLDER)/insertion
+
+run_insertion:
+	./$(FOLDER)/insertion
 cls:
 	rm -f $(FOLDER)/*
