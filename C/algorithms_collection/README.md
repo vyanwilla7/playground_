@@ -27,7 +27,7 @@ algorithm_collection/
 
 - [x] Bubble Sort
 - [x] Selection Sort
-- [ ] Insertion Sort
+- [X] Insertion Sort
 - [ ] Merge Sort
 - [ ] Quick Sort
 - [ ] Heap Sort
