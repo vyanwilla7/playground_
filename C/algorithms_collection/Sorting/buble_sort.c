@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+#define SIZE 5
+
 void hasil(int *p){
   for (int i = 0; i < 5; i++) {
     printf("%d ", p[i]);
@@ -8,10 +10,10 @@ void hasil(int *p){
 
 int main(void){
 
-  int arr[5] = {4,3,5,2,1};
+  int arr[SIZE] = {4,3,5,2,1};
 
-  for (int i = 0; i < 5; i++){
-    for (int j = 0; j < 5 - i - 1; j++){
+  for (int i = 0; i < SIZE; i++){
+    for (int j = 0; j < SIZE - i - 1; j++){
       if (arr[j] > arr[j + 1]){
         int x = arr[j];
         arr[j] = arr[j + 1];
