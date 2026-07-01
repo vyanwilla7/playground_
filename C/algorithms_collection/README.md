@@ -123,11 +123,8 @@ Other
 
 - ANSI C (C99)
 - No external libraries
-- Modular implementation
-- Well-commented source code
-- Time & Space Complexity included
-
----
+- Clear variable naming
+- Consistent code formatting
 
 # Progress
 
