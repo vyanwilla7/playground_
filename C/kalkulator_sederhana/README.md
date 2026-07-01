@@ -68,15 +68,16 @@ make clear
 
 ```
 ===== KALKULATOR SEDERHANA =====
+=====KALKULATOR SEDERHANA=====
+DAFTAR OPERATOR:
 
-pilih operator:
 1. Penjumlahan
 2. Pengurangan
 3. Perkalian
 4. Pembagian
 0. Exit
-
-> 1
+<===========================>
+pilih operator: 1
 masukkan angka pertama: 10
 masukkan angka kedua: 5
 
