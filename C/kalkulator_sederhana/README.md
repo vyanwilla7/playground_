@@ -67,7 +67,6 @@ make clear
 ## Contoh Penggunaan
 
 ```
-===== KALKULATOR SEDERHANA =====
 =====KALKULATOR SEDERHANA=====
 DAFTAR OPERATOR:
 
